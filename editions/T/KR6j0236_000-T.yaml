@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0236/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 清淨觀世音普賢陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1038.xml
+    old_id: T20n1038
+hash: sha256:aed4147a76350830e00f8aa8ec354ba9ae3848ce6c3283372ce54e1eb3e9576c
