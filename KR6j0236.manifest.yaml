@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0236_000.yaml, hash: 'sha256:aed4147a76350830e00f8aa8ec354ba9ae3848ce6c3283372ce54e1eb3e9576c'}
-  - {seq: 1, filename: KR6j0236_001.yaml, hash: 'sha256:95037817b176bfc7f02e2b8229ee8464e093b39ae052e93cb667961a171c34de'}
+  - {seq: 1, filename: KR6j0236_001.yaml, hash: 'sha256:5fc262696489c1036afdd58f34724ae6ca66b5e82422537029d4d7959db8cfaf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0236_001.markers.yaml, hash: 'sha256:be2785405f4e74e27a18fe9aa4a54552db63ebecbe3766e8493cee17f01bc755'}
+  - {seq: 0, role: markers, filename: assets/KR6j0236_000.markers.yaml, hash: 'sha256:453e9e19d3b411f56b58425a5034b7771a3f303f6756e724a6ba55bc7aaef761'}
+  - {seq: 1, role: markers, filename: assets/KR6j0236_001.markers.yaml, hash: 'sha256:f6401f909cb70ea5b5426c7f899f72df801ab51bf89db5f6b20d74cc3e44ad8c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 清淨觀世音普賢陀羅尼經
   type: juan
   level: 1
-hash: sha256:00cb88051c2c14c71a505a43a46a71233b7b80fe61425144b96df549d4faec48
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:15bf71598a4e16988494396bb3238cc2d11b9346f5795627a99291440b3acce8
